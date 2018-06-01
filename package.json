@@ -1,0 +1,23 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Command line interface to get the weather information from address built using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beingbishwa/weatherApp.git"
+  },
+  "author": "beingbishwa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/beingbishwa/weatherApp/issues"
+  },
+  "homepage": "https://github.com/beingbishwa/weatherApp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^11.0.0"
+  }
+}
